@@ -17,4 +17,4 @@ Once installation is completed successfully, run the following command:
 ```
 python3 bench.py
 ```
-This should yield an f-1 score of 0.6289.
+This should yield an f-1 score of 0.6276.
