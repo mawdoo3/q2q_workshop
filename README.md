@@ -13,8 +13,4 @@ pip install -r requirments.txt
 
 Results
 -------
-Once installation is completed successfully, run the following command:
-```
-python3 bench.py
-```
-This should yield an f-1 score of 0.6276.
+The results achieved by using the benchmark solution (as implemented in bench.py) can be found on the leaderboard on the workshop's kaggle page.
